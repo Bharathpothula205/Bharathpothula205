@@ -11,7 +11,7 @@
 
 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science (IoT, Cybersecurity & Blockchain) — REVA University
+🎓 B.Tech in Computer Science (AIML) — REVA University
 💡 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack (MERN) Development
 🧠 Skilled in building AI-powered, cloud-integrated web apps using React.js, Node.js, Flask, and MongoDB
 ⚙️ Experienced in AI + Blockchain integration, Cloud Automation, and ML-based decision systems
