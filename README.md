@@ -16,7 +16,7 @@
 🧠 Skilled in building AI-powered, cloud-integrated web apps using React.js, Node.js, Flask, and MongoDB
 ⚙️ Experienced in AI + Blockchain integration, Cloud Automation, and ML-based decision systems
 🏆 Hackathon Wins — EquiChain (AI + Blockchain), StudySphere, Social Welfare Distribution System
-🌐 Portfolio: neon.zapfolio.in/pbharath
+
 
 🛠️ Tech Stack
 
@@ -51,8 +51,7 @@ More Projects
 🏆 Winner — EquiChain (AI + Blockchain Hackathon)
 🏆 Winner — StudySphere (Full-Stack Project Cycle)
 🏆 Finalist — Social Welfare Distribution Project (AI + Blockchain)
-📜 Oracle Cloud Infrastructure – 2025 Certified
 📜 AI & Deep Learning – Google TensorFlow Course
-📜 Programming in Python – NPTEL, 2024
+
 
 ✨ “Keep Building, Keep Learning, Keep Innovating.”
